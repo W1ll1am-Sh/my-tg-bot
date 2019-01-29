@@ -1,1 +1,1 @@
-# my-tg-bot
+# my Telegram-bot
